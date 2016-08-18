@@ -1,0 +1,21 @@
+2. ASSIGNMENT(Inheritance and inner class)
+--------------
+Q1.
+--Write a class Student(name,roll,branch) and use the methods to initialize the values from the keyboard.Write a class 
+Exam inheriting Student with members as totalMark,division and an array for the marks of 6 different subjects use a method 
+getMarks() in which accept input from the keyboard to accept the marks in 6 different subjects. Find the totalMark and 
+division like first, second, third and fail.Write an appropriate method to display the details of the student along with
+the marks and grade. Write an implementer class to implement the concept of inheritance.
+
+Q2
+Write a class Person with variaqble as name,address and use the constructor to initialize the variables and the display()
+method to display the details of the Person class.Wrute a class Employee inheriting from Person with variable
+eid,doj,salary and use constructor to assing the values and the display() method to display the Employee details. 
+Develop the mechanism of calling the Person class constructor and method in Employee class.
+
+Q3.
+Write a program in java to implement the concept of Inner class by considering the following sinarios
+BankAccount as the outer class with balance as the private member. Create a class Interest as the private 
+inner class of the BankAccount with a variable as rate.calculate the interest and final balance by taking a method 
+inside the Interest class.Wrute a method to display the details in the outer class. Write an implementer 
+class to implement the concept of the inner class.
