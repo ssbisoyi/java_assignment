@@ -1,0 +1,20 @@
+1. Short questions
+a. Why java is platform independent and machine independent?
+b. What are the differences between java and C++?
+c. What do you mean by abstract class and what is its use in the software development?
+d. what is use of this in a class?
+e. What is constructor overloading in java?
+f. what do you mean by annonymous object?
+g. What is the use of super in inheritance?
+h. Why the signature of main() is public static and void?
+i. what is the difference between method overloading and overriding in java?
+j. what is the use of final in java?
+
+2. Long Question
+a. What are the different use of "this" keyword in java and explain how it is used to call the constructor with example?
+b. What is the use of ststic block, static variable and static method in java? Write program to demonstrate?
+c. Explain the use of super to call the base class constructor and base class method i9n inheritance?
+d. What is inheritance in java? Why java does not support multiple inheritance and how it can be achived using interface?
+e. What do you mean by polymorphism and writea program to achive dynamic polymorphysm in java?
+f. What do you mean by inner class? Write a program to demonstrate this.
+g. What do you mean by dynamic method dispatching? Write a program to demonstrate this?
